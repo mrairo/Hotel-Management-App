@@ -106,7 +106,9 @@ class MyHomePage extends StatelessWidget {
                             ),
                             child: const ImageIcon(
                               NetworkImage(
+                                //change the link to image link 
                                   "https://cdn1.iconfinder.com/data/icons/basi-icon-set-01/100/Fin_copy-37-256.png"),
+                                
                               size: 24,
                               color: Color.fromARGB(255, 44, 179, 224),
                             ),
